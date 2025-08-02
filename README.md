@@ -12,10 +12,9 @@
 🌱 I’m currently learning:  
 **DSA in Java**
 
-📫 How to reach me:  
-**tripathipiyush0216@gmail.com**
 
-👨‍💻 All of my projects are available on my GitHub profile
+
+
 
 📝 I regularly share content on LinkedIn  
 **[Piyush Tripathi | LinkedIn](https://www.linkedin.com/in/piyush-tripathi-105324321/)**
@@ -44,4 +43,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushTripathi21&layout=compact&theme=radical)
 
 ---
+## 📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/-tripathipiyush0216@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tripathipiyush0216@gmail.com)
+
+## 🌐 Connect with me:
+[![Twitter](https://img.shields.io/badge/-@trip21piyush-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/trip21piyush)
+[![LinkedIn](https://img.shields.io/badge/-Piyush%20Tripathi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-tripathi-105324321/)
+[![Instagram](https://img.shields.io/badge/-@piyushtripathi021-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/piyushtripathi021)
+[![GitHub](https://img.shields.io/badge/-piyushTripathi2)]()
 
