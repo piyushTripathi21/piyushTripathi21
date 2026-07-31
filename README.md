@@ -1,54 +1,67 @@
-# Hi 👋, I'm Piyush Tripathi
+<h1 align="center">Hi there, I'm Piyush 👋</h1>
+<h3 align="center">Full Stack Developer | Professional Bug Creator (and occasional fixer)</h3>
 
-### FULL STACK DEVELOPER
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World%22)%3B;Still+debugging+that+one+thing...;404%3A+Sleep+not+found;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+</p>
 
 ---
 
-🔭 I’m currently working on:  
-**[SuspiciousLinkDetector](https://github.com/piyushTripathi21/SuspiciousLinkDetector)**
+### 🔭 What I'm up to
 
-🤝 I’m not looking to collaborate right now
+- 🛠️ Currently building **[SuspiciousLinkDetector](https://github.com/piyushTripathi21/SuspiciousLinkDetector)** — because the internet needed one more person yelling "don't click that!"
+- 🌱 Learning **DSA in Java**, one existential crisis at a time
+- 🤝 Not looking to collaborate right now (it's not you, it's my todo list)
+- 📝 I share things on **[LinkedIn](https://www.linkedin.com/in/piyush-tripathi-105324321/)** that sound smarter than my actual commit messages
+- ⚡ Fun fact: I understand JavaScript's `this` keyword about 60% of the time, which honestly feels like a win
 
-🌱 I’m currently learning:  
-**DSA in Java**
+---
 
+### 💻 Languages & Tools
 
-
-
-
-📝 I regularly share content on LinkedIn  
-**[Piyush Tripathi | LinkedIn](https://www.linkedin.com/in/piyush-tripathi-105324321/)**
-
-### 💻 Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,git,github" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushTripathi21&show_icons=true&theme=radical)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushTripathi21&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushTripathi21&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushTripathi21&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushTripathi21&theme=radical&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushTripathi21&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
 
 ---
-## 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-tripathipiyush0216@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tripathipiyush0216@gmail.com)
 
-## 🌐 Connect with me:
-[![Twitter](https://img.shields.io/badge/-@trip21piyush-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/trip21piyush)
-[![LinkedIn](https://img.shields.io/badge/-Piyush%20Tripathi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-tripathi-105324321/)
-[![Instagram](https://img.shields.io/badge/-@piyushtripathi021-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/piyushtripathi021)
-[![GitHub](https://img.shields.io/badge/-piyushTripathi2)]()
+### 📫 How to reach me
 
+<p align="left">
+  <a href="mailto:tripathipiyush0216@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-tripathi-105324321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/piyushtripathi021">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ If you find my repos useful, drop a star. My ego and I would appreciate it.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushTripathi21&style=flat-square&color=blue" alt="Profile views" />
+</p>
